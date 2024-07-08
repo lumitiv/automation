@@ -30,7 +30,8 @@ Ensure you have the necessary permissions and software installed to run these sc
 PowerShell scripts: Requires PowerShell 5.1 or later.
 Batch files: Compatible with Windows Command Prompt.
 Golang scripts: Requires Go 1.15 or later.
-Contributing
+
+## Contributing
 We welcome contributions to this repository. If you have a useful automation script or improvement, feel free to open a pull request.
 
 ## Steps to Contribute
